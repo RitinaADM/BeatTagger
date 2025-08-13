@@ -25,7 +25,6 @@ venv/
 tag_edittor.rar
 *.jpg
 *.jpeg
-*.png
 
 # Docker
 Dockerfile
